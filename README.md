@@ -1,4 +1,4 @@
-# Hi 👋, I'm zhemmmzh
+# Hi 👋, I'm ZHalio
 
 ### A budding front-end developer
 
