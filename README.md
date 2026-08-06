@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=160&section=header&text=emmm&fontSize=72&animation=fadeIn" alt="emmm" />
+</p>
+
 <div align="center">
   <h1>emmm</h1>
   <p><strong>Full-stack engineer</strong> building products from data model to deployment.</p>
@@ -89,3 +93,7 @@ I care about clear contracts, small deployable changes, and understanding the op
   <sub>"Right now you are a prisoner of each application you use. You have only the options that were given you by the developer of that application."</sub><br>
   <sub><strong>&mdash; Ted Nelson</strong></sub>
 </div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=80&section=footer" alt="" />
+</p>
