@@ -3,8 +3,7 @@
 </p>
 
 <div align="center">
-  <h1>emmm</h1>
-  <p><strong>Full-stack engineer</strong> focused on TypeScript and Go.</p>
+  <p><strong>Full-stack engineer</strong> building developer tools, web applications, and AI-powered products with TypeScript and Go.</p>
   <p>
     <a href="https://blog.zzemy.top"><img src="https://img.shields.io/badge/Blog-blog.zzemy.top-0e75b6?style=flat-square&logo=readme&logoColor=white" alt="Blog" /></a>
     <img src="https://img.shields.io/badge/Role-Full--Stack%20Engineer-0e75b6?style=flat-square" alt="Role: Full-stack Engineer" />
@@ -14,12 +13,14 @@
 
 <br>
 
-I build full-stack applications with TypeScript and Go, from web interfaces and APIs to data, testing, and deployment.
+I work across web interfaces, backend services, data, automation, and delivery.
 
 ## Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,go,nodejs,react,nextjs,postgres,redis,docker,githubactions,jest,playwright,git" alt="TypeScript, Go, Node.js, React, Next.js, PostgreSQL, Redis, Docker, GitHub Actions, Jest, Playwright, Git" />
+  <img src="https://skillicons.dev/icons?i=ts,go,nodejs,react,nextjs,postgres,redis,docker,githubactions,jest" alt="TypeScript, Go, Node.js, React, Next.js, PostgreSQL, Redis, Docker, GitHub Actions, Jest" />
+  <img width="48" height="48" src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright" />
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" />
 </p>
 
 ## GitHub activity
