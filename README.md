@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <p><strong>Full-stack engineer</strong> building developer tools, web applications, and AI-powered products with TypeScript and Go.</p>
+  <p><strong>Full-stack engineer</strong> building developer tools, workflow systems, and AI-powered web applications with TypeScript and Go.</p>
   <p>
     <a href="https://blog.zzemy.top"><img src="https://img.shields.io/badge/Blog-blog.zzemy.top-0e75b6?style=flat-square&logo=readme&logoColor=white" alt="Blog" /></a>
     <img src="https://img.shields.io/badge/Role-Full--Stack%20Engineer-0e75b6?style=flat-square" alt="Role: Full-stack Engineer" />
