@@ -13,8 +13,6 @@
 
 <br>
 
-I work across web interfaces, backend services, data, automation, and delivery.
-
 ## Tech stack
 
 <p align="center">
